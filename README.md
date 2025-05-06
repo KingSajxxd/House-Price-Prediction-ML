@@ -1,7 +1,7 @@
-🏡 Boston-Housing-Price-Prediction  
+# 🏡 Boston-Housing-Price-Prediction  
 A machine learning project using XGBoost Regressor to predict housing prices based on features like crime rate, room count, and property tax. It covers data exploration, model training, evaluation, and a visual analysis of predictions. Built with Python, Pandas, Seaborn, scikit-learn, and XGBoost.
 
-📖 Description  
+# 📖 Description  
 This project applies a supervised regression model to the Boston Housing dataset to predict median house prices. It demonstrates a complete ML pipeline - starting from data loading and analysis to model training, evaluation, and visualization of prediction accuracy.
 
 📁 Dataset  
@@ -14,7 +14,7 @@ Features include:
 Target label:  
 - `price`: Median value of owner-occupied homes (in $1000s)
 
-🛠️ Installation  
+# 🛠️ Installation  
 Install the required Python packages using pip:
 
 ```bash
